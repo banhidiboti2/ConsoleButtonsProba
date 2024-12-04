@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleButtons", "ConsoleButtons\ConsoleButtons.csproj", "{795A3A03-2FD3-47DE-8C19-EB8AE9C955FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795A3A03-2FD3-47DE-8C19-EB8AE9C955FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795A3A03-2FD3-47DE-8C19-EB8AE9C955FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795A3A03-2FD3-47DE-8C19-EB8AE9C955FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795A3A03-2FD3-47DE-8C19-EB8AE9C955FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0FD1CC-3CA8-4DF7-8040-31CCE9439AF2}
+	EndGlobalSection
+EndGlobal
